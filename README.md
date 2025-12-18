@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Arsath
 
-- 🎓 Diploma in Electrical Engineering
+- 🎓 Engineering Student
 - 💻 Interested in Software Engineer / Data Analyst roles
 - 🐍 Python (Basics)
 - 🗄️ SQL (Basics)
